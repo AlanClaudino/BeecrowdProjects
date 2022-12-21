@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\bin\Debug\net6.0\ValidacaoDeNotas_1117.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\bin\Debug\net6.0\ValidacaoDeNotas_1117.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\bin\Debug\net6.0\ValidacaoDeNotas_1117.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\bin\Debug\net6.0\ValidacaoDeNotas_1117.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\bin\Debug\net6.0\ValidacaoDeNotas_1117.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\obj\Debug\net6.0\ValidacaoDeNotas_1117.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\obj\Debug\net6.0\ValidacaoDeNotas_1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\obj\Debug\net6.0\ValidacaoDeNotas_1117.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\obj\Debug\net6.0\ValidacaoDeNotas_1117.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\obj\Debug\net6.0\ValidacaoDeNotas_1117.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\obj\Debug\net6.0\ValidacaoDeNotas_1117.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\obj\Debug\net6.0\refint\ValidacaoDeNotas_1117.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\obj\Debug\net6.0\ValidacaoDeNotas_1117.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\obj\Debug\net6.0\ValidacaoDeNotas_1117.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\ValidacaoDeNotas_1117\ValidacaoDeNotas_1117\obj\Debug\net6.0\ref\ValidacaoDeNotas_1117.dll

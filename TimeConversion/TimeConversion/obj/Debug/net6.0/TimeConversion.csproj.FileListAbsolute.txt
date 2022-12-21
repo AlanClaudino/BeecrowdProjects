@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\bin\Debug\net6.0\TimeConversion.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\bin\Debug\net6.0\TimeConversion.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\bin\Debug\net6.0\TimeConversion.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\bin\Debug\net6.0\TimeConversion.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\bin\Debug\net6.0\TimeConversion.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\obj\Debug\net6.0\TimeConversion.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\obj\Debug\net6.0\TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\obj\Debug\net6.0\TimeConversion.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\obj\Debug\net6.0\TimeConversion.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\obj\Debug\net6.0\TimeConversion.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\obj\Debug\net6.0\TimeConversion.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\obj\Debug\net6.0\refint\TimeConversion.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\obj\Debug\net6.0\TimeConversion.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\obj\Debug\net6.0\TimeConversion.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\TimeConversion\TimeConversion\obj\Debug\net6.0\ref\TimeConversion.dll

@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\bin\Debug\net6.0\SimpleCalculate - 1010.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\bin\Debug\net6.0\SimpleCalculate - 1010.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\bin\Debug\net6.0\SimpleCalculate - 1010.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\bin\Debug\net6.0\SimpleCalculate - 1010.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\bin\Debug\net6.0\SimpleCalculate - 1010.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\obj\Debug\net6.0\SimpleCalculate - 1010.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\obj\Debug\net6.0\SimpleCalculate - 1010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\obj\Debug\net6.0\SimpleCalculate - 1010.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\obj\Debug\net6.0\SimpleCalculate - 1010.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\obj\Debug\net6.0\SimpleCalculate - 1010.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\obj\Debug\net6.0\SimpleCalculate - 1010.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\obj\Debug\net6.0\refint\SimpleCalculate - 1010.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\obj\Debug\net6.0\SimpleCalculate - 1010.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\obj\Debug\net6.0\SimpleCalculate - 1010.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SimpleCalculate - 1010\SimpleCalculate - 1010\obj\Debug\net6.0\ref\SimpleCalculate - 1010.dll

@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\bin\Debug\net6.0\DividindoXporY_1116.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\bin\Debug\net6.0\DividindoXporY_1116.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\bin\Debug\net6.0\DividindoXporY_1116.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\bin\Debug\net6.0\DividindoXporY_1116.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\bin\Debug\net6.0\DividindoXporY_1116.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\obj\Debug\net6.0\DividindoXporY_1116.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\obj\Debug\net6.0\DividindoXporY_1116.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\obj\Debug\net6.0\DividindoXporY_1116.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\obj\Debug\net6.0\DividindoXporY_1116.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\obj\Debug\net6.0\DividindoXporY_1116.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\obj\Debug\net6.0\DividindoXporY_1116.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\obj\Debug\net6.0\refint\DividindoXporY_1116.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\obj\Debug\net6.0\DividindoXporY_1116.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\obj\Debug\net6.0\DividindoXporY_1116.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\DividindoXporY_1116\DividindoXporY_1116\obj\Debug\net6.0\ref\DividindoXporY_1116.dll

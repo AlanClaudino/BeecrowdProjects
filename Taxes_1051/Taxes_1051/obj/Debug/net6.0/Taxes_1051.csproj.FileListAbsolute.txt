@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\bin\Debug\net6.0\Taxes_1051.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\bin\Debug\net6.0\Taxes_1051.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\bin\Debug\net6.0\Taxes_1051.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\bin\Debug\net6.0\Taxes_1051.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\bin\Debug\net6.0\Taxes_1051.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\obj\Debug\net6.0\Taxes_1051.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\obj\Debug\net6.0\Taxes_1051.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\obj\Debug\net6.0\Taxes_1051.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\obj\Debug\net6.0\Taxes_1051.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\obj\Debug\net6.0\Taxes_1051.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\obj\Debug\net6.0\Taxes_1051.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\obj\Debug\net6.0\refint\Taxes_1051.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\obj\Debug\net6.0\Taxes_1051.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\obj\Debug\net6.0\Taxes_1051.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Taxes_1051\Taxes_1051\obj\Debug\net6.0\ref\Taxes_1051.dll

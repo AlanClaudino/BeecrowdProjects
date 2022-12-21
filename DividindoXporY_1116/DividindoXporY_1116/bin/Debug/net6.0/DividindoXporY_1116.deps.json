@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DividindoXporY_1116/1.0.0": {
+        "runtime": {
+          "DividindoXporY_1116.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DividindoXporY_1116/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

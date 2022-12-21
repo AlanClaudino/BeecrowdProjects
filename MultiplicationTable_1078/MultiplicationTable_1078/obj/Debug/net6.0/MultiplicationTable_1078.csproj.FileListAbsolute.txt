@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\bin\Debug\net6.0\MultiplicationTable_1078.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\bin\Debug\net6.0\MultiplicationTable_1078.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\bin\Debug\net6.0\MultiplicationTable_1078.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\bin\Debug\net6.0\MultiplicationTable_1078.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\bin\Debug\net6.0\MultiplicationTable_1078.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\refint\MultiplicationTable_1078.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\ref\MultiplicationTable_1078.dll

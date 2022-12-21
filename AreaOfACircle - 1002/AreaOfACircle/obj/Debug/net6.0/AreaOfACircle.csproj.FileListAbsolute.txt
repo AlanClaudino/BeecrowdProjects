@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\bin\Debug\net6.0\AreaOfACircle.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\bin\Debug\net6.0\AreaOfACircle.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\bin\Debug\net6.0\AreaOfACircle.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\bin\Debug\net6.0\AreaOfACircle.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\bin\Debug\net6.0\AreaOfACircle.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\obj\Debug\net6.0\AreaOfACircle.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\obj\Debug\net6.0\AreaOfACircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\obj\Debug\net6.0\AreaOfACircle.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\obj\Debug\net6.0\AreaOfACircle.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\obj\Debug\net6.0\AreaOfACircle.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\obj\Debug\net6.0\AreaOfACircle.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\obj\Debug\net6.0\refint\AreaOfACircle.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\obj\Debug\net6.0\AreaOfACircle.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\obj\Debug\net6.0\AreaOfACircle.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\AreaOfACircle\AreaOfACircle\obj\Debug\net6.0\ref\AreaOfACircle.dll

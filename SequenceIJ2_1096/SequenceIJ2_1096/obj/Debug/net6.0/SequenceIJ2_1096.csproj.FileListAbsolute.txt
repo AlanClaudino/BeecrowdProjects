@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\bin\Debug\net6.0\SequenceIJ2_1096.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\bin\Debug\net6.0\SequenceIJ2_1096.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\bin\Debug\net6.0\SequenceIJ2_1096.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\bin\Debug\net6.0\SequenceIJ2_1096.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\bin\Debug\net6.0\SequenceIJ2_1096.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\obj\Debug\net6.0\SequenceIJ2_1096.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\obj\Debug\net6.0\SequenceIJ2_1096.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\obj\Debug\net6.0\SequenceIJ2_1096.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\obj\Debug\net6.0\SequenceIJ2_1096.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\obj\Debug\net6.0\SequenceIJ2_1096.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\obj\Debug\net6.0\SequenceIJ2_1096.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\obj\Debug\net6.0\refint\SequenceIJ2_1096.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\obj\Debug\net6.0\SequenceIJ2_1096.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\obj\Debug\net6.0\SequenceIJ2_1096.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SequenceIJ2_1096\SequenceIJ2_1096\obj\Debug\net6.0\ref\SequenceIJ2_1096.dll

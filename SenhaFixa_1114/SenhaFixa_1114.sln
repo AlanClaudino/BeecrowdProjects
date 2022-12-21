@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenhaFixa_1114", "SenhaFixa_1114\SenhaFixa_1114.csproj", "{BC0F6336-CDA8-4DDD-AD35-EBAD705A15B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC0F6336-CDA8-4DDD-AD35-EBAD705A15B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0F6336-CDA8-4DDD-AD35-EBAD705A15B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0F6336-CDA8-4DDD-AD35-EBAD705A15B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0F6336-CDA8-4DDD-AD35-EBAD705A15B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D88E387E-417D-48E7-8472-24EFD3E7ECBD}
+	EndGlobalSection
+EndGlobal

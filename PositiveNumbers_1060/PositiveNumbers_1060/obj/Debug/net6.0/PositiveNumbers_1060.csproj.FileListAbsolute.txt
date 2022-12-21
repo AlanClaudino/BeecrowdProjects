@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\bin\Debug\net6.0\PositiveNumbers_1060.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\bin\Debug\net6.0\PositiveNumbers_1060.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\bin\Debug\net6.0\PositiveNumbers_1060.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\bin\Debug\net6.0\PositiveNumbers_1060.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\bin\Debug\net6.0\PositiveNumbers_1060.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\refint\PositiveNumbers_1060.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\ref\PositiveNumbers_1060.dll

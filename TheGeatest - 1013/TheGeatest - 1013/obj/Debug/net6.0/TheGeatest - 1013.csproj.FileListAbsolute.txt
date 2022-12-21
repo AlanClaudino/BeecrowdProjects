@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\bin\Debug\net6.0\TheGeatest - 1013.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\bin\Debug\net6.0\TheGeatest - 1013.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\bin\Debug\net6.0\TheGeatest - 1013.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\bin\Debug\net6.0\TheGeatest - 1013.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\bin\Debug\net6.0\TheGeatest - 1013.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\obj\Debug\net6.0\TheGeatest - 1013.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\obj\Debug\net6.0\TheGeatest - 1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\obj\Debug\net6.0\TheGeatest - 1013.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\obj\Debug\net6.0\TheGeatest - 1013.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\obj\Debug\net6.0\TheGeatest - 1013.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\obj\Debug\net6.0\TheGeatest - 1013.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\obj\Debug\net6.0\refint\TheGeatest - 1013.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\obj\Debug\net6.0\TheGeatest - 1013.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\obj\Debug\net6.0\TheGeatest - 1013.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\TheGeatest - 1013\TheGeatest - 1013\obj\Debug\net6.0\ref\TheGeatest - 1013.dll

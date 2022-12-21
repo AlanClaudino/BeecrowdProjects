@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\bin\Debug\net6.0\SelectionTest1 - 1035.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\bin\Debug\net6.0\SelectionTest1 - 1035.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\bin\Debug\net6.0\SelectionTest1 - 1035.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\bin\Debug\net6.0\SelectionTest1 - 1035.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\bin\Debug\net6.0\SelectionTest1 - 1035.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\obj\Debug\net6.0\SelectionTest1 - 1035.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\obj\Debug\net6.0\SelectionTest1 - 1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\obj\Debug\net6.0\SelectionTest1 - 1035.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\obj\Debug\net6.0\SelectionTest1 - 1035.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\obj\Debug\net6.0\SelectionTest1 - 1035.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\obj\Debug\net6.0\SelectionTest1 - 1035.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\obj\Debug\net6.0\refint\SelectionTest1 - 1035.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\obj\Debug\net6.0\SelectionTest1 - 1035.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\obj\Debug\net6.0\SelectionTest1 - 1035.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SelectionTest1 - 1035\SelectionTest1 - 1035\obj\Debug\net6.0\ref\SelectionTest1 - 1035.dll

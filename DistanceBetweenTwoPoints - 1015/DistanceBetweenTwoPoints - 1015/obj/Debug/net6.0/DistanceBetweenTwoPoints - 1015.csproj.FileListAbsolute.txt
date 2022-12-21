@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\bin\Debug\net6.0\DistanceBetweenTwoPoints - 1015.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\bin\Debug\net6.0\DistanceBetweenTwoPoints - 1015.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\bin\Debug\net6.0\DistanceBetweenTwoPoints - 1015.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\bin\Debug\net6.0\DistanceBetweenTwoPoints - 1015.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\bin\Debug\net6.0\DistanceBetweenTwoPoints - 1015.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\obj\Debug\net6.0\DistanceBetweenTwoPoints - 1015.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\obj\Debug\net6.0\DistanceBetweenTwoPoints - 1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\obj\Debug\net6.0\DistanceBetweenTwoPoints - 1015.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\obj\Debug\net6.0\DistanceBetweenTwoPoints - 1015.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\obj\Debug\net6.0\DistanceBetweenTwoPoints - 1015.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\obj\Debug\net6.0\DistanceBetweenTwoPoints - 1015.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\obj\Debug\net6.0\refint\DistanceBetweenTwoPoints - 1015.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\obj\Debug\net6.0\DistanceBetweenTwoPoints - 1015.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\obj\Debug\net6.0\DistanceBetweenTwoPoints - 1015.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\DistanceBetweenTwoPoints - 1015\DistanceBetweenTwoPoints - 1015\obj\Debug\net6.0\ref\DistanceBetweenTwoPoints - 1015.dll

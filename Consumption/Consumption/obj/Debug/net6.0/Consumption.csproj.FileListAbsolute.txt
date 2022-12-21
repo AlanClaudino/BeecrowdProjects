@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\bin\Debug\net6.0\Consumption.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\bin\Debug\net6.0\Consumption.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\bin\Debug\net6.0\Consumption.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\bin\Debug\net6.0\Consumption.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\bin\Debug\net6.0\Consumption.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\obj\Debug\net6.0\Consumption.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\obj\Debug\net6.0\Consumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\obj\Debug\net6.0\Consumption.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\obj\Debug\net6.0\Consumption.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\obj\Debug\net6.0\Consumption.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\obj\Debug\net6.0\Consumption.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\obj\Debug\net6.0\refint\Consumption.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\obj\Debug\net6.0\Consumption.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\obj\Debug\net6.0\Consumption.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Consumption\Consumption\obj\Debug\net6.0\ref\Consumption.dll

@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\bin\Debug\net6.0\SalaryIncrease_1048.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\bin\Debug\net6.0\SalaryIncrease_1048.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\bin\Debug\net6.0\SalaryIncrease_1048.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\bin\Debug\net6.0\SalaryIncrease_1048.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\bin\Debug\net6.0\SalaryIncrease_1048.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\refint\SalaryIncrease_1048.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\ref\SalaryIncrease_1048.dll

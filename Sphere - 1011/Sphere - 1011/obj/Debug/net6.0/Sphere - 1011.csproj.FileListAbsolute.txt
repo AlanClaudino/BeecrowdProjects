@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\bin\Debug\net6.0\Sphere - 1011.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\bin\Debug\net6.0\Sphere - 1011.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\bin\Debug\net6.0\Sphere - 1011.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\bin\Debug\net6.0\Sphere - 1011.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\bin\Debug\net6.0\Sphere - 1011.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\obj\Debug\net6.0\Sphere - 1011.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\obj\Debug\net6.0\Sphere - 1011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\obj\Debug\net6.0\Sphere - 1011.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\obj\Debug\net6.0\Sphere - 1011.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\obj\Debug\net6.0\Sphere - 1011.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\obj\Debug\net6.0\Sphere - 1011.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\obj\Debug\net6.0\refint\Sphere - 1011.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\obj\Debug\net6.0\Sphere - 1011.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\obj\Debug\net6.0\Sphere - 1011.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Sphere - 1011\Sphere - 1011\obj\Debug\net6.0\ref\Sphere - 1011.dll

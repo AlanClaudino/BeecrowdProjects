@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\bin\Debug\net6.0\EvenNumbers.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\bin\Debug\net6.0\EvenNumbers.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\bin\Debug\net6.0\EvenNumbers.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\bin\Debug\net6.0\EvenNumbers.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\bin\Debug\net6.0\EvenNumbers.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\obj\Debug\net6.0\EvenNumbers.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\obj\Debug\net6.0\EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\obj\Debug\net6.0\EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\obj\Debug\net6.0\EvenNumbers.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\obj\Debug\net6.0\EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\obj\Debug\net6.0\EvenNumbers.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\obj\Debug\net6.0\refint\EvenNumbers.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\obj\Debug\net6.0\EvenNumbers.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\obj\Debug\net6.0\EvenNumbers.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\EvenNumbers\EvenNumbers\obj\Debug\net6.0\ref\EvenNumbers.dll

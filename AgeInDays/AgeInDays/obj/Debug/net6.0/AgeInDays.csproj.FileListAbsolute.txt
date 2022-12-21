@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\bin\Debug\net6.0\AgeInDays.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\bin\Debug\net6.0\AgeInDays.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\bin\Debug\net6.0\AgeInDays.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\bin\Debug\net6.0\AgeInDays.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\bin\Debug\net6.0\AgeInDays.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\obj\Debug\net6.0\AgeInDays.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\obj\Debug\net6.0\AgeInDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\obj\Debug\net6.0\AgeInDays.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\obj\Debug\net6.0\AgeInDays.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\obj\Debug\net6.0\AgeInDays.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\obj\Debug\net6.0\AgeInDays.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\obj\Debug\net6.0\refint\AgeInDays.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\obj\Debug\net6.0\AgeInDays.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\obj\Debug\net6.0\AgeInDays.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\AgeInDays\AgeInDays\obj\Debug\net6.0\ref\AgeInDays.dll

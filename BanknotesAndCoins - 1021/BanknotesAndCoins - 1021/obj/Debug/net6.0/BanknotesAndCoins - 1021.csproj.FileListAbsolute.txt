@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\bin\Debug\net6.0\BanknotesAndCoins - 1021.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\bin\Debug\net6.0\BanknotesAndCoins - 1021.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\bin\Debug\net6.0\BanknotesAndCoins - 1021.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\bin\Debug\net6.0\BanknotesAndCoins - 1021.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\bin\Debug\net6.0\BanknotesAndCoins - 1021.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\obj\Debug\net6.0\BanknotesAndCoins - 1021.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\obj\Debug\net6.0\BanknotesAndCoins - 1021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\obj\Debug\net6.0\BanknotesAndCoins - 1021.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\obj\Debug\net6.0\BanknotesAndCoins - 1021.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\obj\Debug\net6.0\BanknotesAndCoins - 1021.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\obj\Debug\net6.0\BanknotesAndCoins - 1021.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\obj\Debug\net6.0\refint\BanknotesAndCoins - 1021.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\obj\Debug\net6.0\BanknotesAndCoins - 1021.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\obj\Debug\net6.0\BanknotesAndCoins - 1021.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\BanknotesAndCoins - 1021\BanknotesAndCoins - 1021\obj\Debug\net6.0\ref\BanknotesAndCoins - 1021.dll

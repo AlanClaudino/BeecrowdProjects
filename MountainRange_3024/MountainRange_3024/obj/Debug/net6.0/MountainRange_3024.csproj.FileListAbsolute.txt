@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\bin\Debug\net6.0\MountainRange_3024.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\bin\Debug\net6.0\MountainRange_3024.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\bin\Debug\net6.0\MountainRange_3024.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\bin\Debug\net6.0\MountainRange_3024.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\bin\Debug\net6.0\MountainRange_3024.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\obj\Debug\net6.0\MountainRange_3024.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\obj\Debug\net6.0\MountainRange_3024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\obj\Debug\net6.0\MountainRange_3024.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\obj\Debug\net6.0\MountainRange_3024.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\obj\Debug\net6.0\MountainRange_3024.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\obj\Debug\net6.0\MountainRange_3024.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\obj\Debug\net6.0\refint\MountainRange_3024.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\obj\Debug\net6.0\MountainRange_3024.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\obj\Debug\net6.0\MountainRange_3024.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\MountainRange_3024\MountainRange_3024\obj\Debug\net6.0\ref\MountainRange_3024.dll

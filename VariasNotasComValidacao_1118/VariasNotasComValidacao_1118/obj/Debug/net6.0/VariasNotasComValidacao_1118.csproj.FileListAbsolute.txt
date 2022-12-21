@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\bin\Debug\net6.0\VariasNotasComValidacao_1118.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\bin\Debug\net6.0\VariasNotasComValidacao_1118.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\bin\Debug\net6.0\VariasNotasComValidacao_1118.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\bin\Debug\net6.0\VariasNotasComValidacao_1118.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\bin\Debug\net6.0\VariasNotasComValidacao_1118.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\obj\Debug\net6.0\VariasNotasComValidacao_1118.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\obj\Debug\net6.0\VariasNotasComValidacao_1118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\obj\Debug\net6.0\VariasNotasComValidacao_1118.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\obj\Debug\net6.0\VariasNotasComValidacao_1118.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\obj\Debug\net6.0\VariasNotasComValidacao_1118.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\obj\Debug\net6.0\VariasNotasComValidacao_1118.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\obj\Debug\net6.0\refint\VariasNotasComValidacao_1118.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\obj\Debug\net6.0\VariasNotasComValidacao_1118.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\obj\Debug\net6.0\VariasNotasComValidacao_1118.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\VariasNotasComValidacao_1118\VariasNotasComValidacao_1118\obj\Debug\net6.0\ref\VariasNotasComValidacao_1118.dll

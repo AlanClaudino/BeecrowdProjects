@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MountainRange_3024/1.0.0": {
+        "runtime": {
+          "MountainRange_3024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MountainRange_3024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

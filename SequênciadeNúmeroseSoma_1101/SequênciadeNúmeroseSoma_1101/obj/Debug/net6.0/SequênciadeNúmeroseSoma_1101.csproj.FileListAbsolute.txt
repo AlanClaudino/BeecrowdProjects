@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\bin\Debug\net6.0\SequênciadeNúmeroseSoma_1101.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\bin\Debug\net6.0\SequênciadeNúmeroseSoma_1101.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\bin\Debug\net6.0\SequênciadeNúmeroseSoma_1101.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\bin\Debug\net6.0\SequênciadeNúmeroseSoma_1101.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\bin\Debug\net6.0\SequênciadeNúmeroseSoma_1101.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\obj\Debug\net6.0\SequênciadeNúmeroseSoma_1101.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\obj\Debug\net6.0\SequênciadeNúmeroseSoma_1101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\obj\Debug\net6.0\SequênciadeNúmeroseSoma_1101.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\obj\Debug\net6.0\SequênciadeNúmeroseSoma_1101.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\obj\Debug\net6.0\SequênciadeNúmeroseSoma_1101.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\obj\Debug\net6.0\SequênciadeNúmeroseSoma_1101.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\obj\Debug\net6.0\refint\SequênciadeNúmeroseSoma_1101.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\obj\Debug\net6.0\SequênciadeNúmeroseSoma_1101.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\obj\Debug\net6.0\SequênciadeNúmeroseSoma_1101.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\SequênciadeNúmeroseSoma_1101\SequênciadeNúmeroseSoma_1101\obj\Debug\net6.0\ref\SequênciadeNúmeroseSoma_1101.dll

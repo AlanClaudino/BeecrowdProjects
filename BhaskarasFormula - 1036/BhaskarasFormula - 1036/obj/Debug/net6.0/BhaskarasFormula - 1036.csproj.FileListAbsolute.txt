@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\bin\Debug\net6.0\BhaskarasFormula - 1036.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\bin\Debug\net6.0\BhaskarasFormula - 1036.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\bin\Debug\net6.0\BhaskarasFormula - 1036.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\bin\Debug\net6.0\BhaskarasFormula - 1036.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\bin\Debug\net6.0\BhaskarasFormula - 1036.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\obj\Debug\net6.0\BhaskarasFormula - 1036.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\obj\Debug\net6.0\BhaskarasFormula - 1036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\obj\Debug\net6.0\BhaskarasFormula - 1036.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\obj\Debug\net6.0\BhaskarasFormula - 1036.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\obj\Debug\net6.0\BhaskarasFormula - 1036.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\obj\Debug\net6.0\BhaskarasFormula - 1036.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\obj\Debug\net6.0\refint\BhaskarasFormula - 1036.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\obj\Debug\net6.0\BhaskarasFormula - 1036.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\obj\Debug\net6.0\BhaskarasFormula - 1036.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\BhaskarasFormula - 1036\BhaskarasFormula - 1036\obj\Debug\net6.0\ref\BhaskarasFormula - 1036.dll

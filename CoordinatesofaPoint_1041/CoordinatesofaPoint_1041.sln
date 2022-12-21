@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordinatesofaPoint_1041", "CoordinatesofaPoint_1041\CoordinatesofaPoint_1041.csproj", "{20A7CD9C-EB20-43BD-842C-51B65CBB92E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A7CD9C-EB20-43BD-842C-51B65CBB92E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A7CD9C-EB20-43BD-842C-51B65CBB92E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A7CD9C-EB20-43BD-842C-51B65CBB92E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A7CD9C-EB20-43BD-842C-51B65CBB92E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73AF7937-973C-460C-A57F-374B0964E57B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\bin\Debug\net6.0\Interval.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\bin\Debug\net6.0\Interval.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\bin\Debug\net6.0\Interval.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\bin\Debug\net6.0\Interval.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\bin\Debug\net6.0\Interval.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\obj\Debug\net6.0\Interval.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\obj\Debug\net6.0\Interval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\obj\Debug\net6.0\Interval.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\obj\Debug\net6.0\Interval.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\obj\Debug\net6.0\Interval.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\obj\Debug\net6.0\Interval.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\obj\Debug\net6.0\refint\Interval.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\obj\Debug\net6.0\Interval.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\obj\Debug\net6.0\Interval.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\Interval\Interval\obj\Debug\net6.0\ref\Interval.dll

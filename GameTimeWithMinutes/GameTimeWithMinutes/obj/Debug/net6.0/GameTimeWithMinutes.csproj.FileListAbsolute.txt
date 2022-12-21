@@ -1,0 +1,15 @@
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\bin\Debug\net6.0\GameTimeWithMinutes.exe
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\bin\Debug\net6.0\GameTimeWithMinutes.deps.json
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\bin\Debug\net6.0\GameTimeWithMinutes.runtimeconfig.json
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\bin\Debug\net6.0\GameTimeWithMinutes.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\bin\Debug\net6.0\GameTimeWithMinutes.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\obj\Debug\net6.0\GameTimeWithMinutes.csproj.AssemblyReference.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\obj\Debug\net6.0\GameTimeWithMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\obj\Debug\net6.0\GameTimeWithMinutes.AssemblyInfoInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\obj\Debug\net6.0\GameTimeWithMinutes.AssemblyInfo.cs
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\obj\Debug\net6.0\GameTimeWithMinutes.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\obj\Debug\net6.0\GameTimeWithMinutes.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\obj\Debug\net6.0\refint\GameTimeWithMinutes.dll
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\obj\Debug\net6.0\GameTimeWithMinutes.pdb
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\obj\Debug\net6.0\GameTimeWithMinutes.genruntimeconfig.cache
+C:\Users\alanr\Desktop\BeecrowdProjects\GameTimeWithMinutes\GameTimeWithMinutes\obj\Debug\net6.0\ref\GameTimeWithMinutes.dll
